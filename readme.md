@@ -1,7 +1,8 @@
-## LyricsZone App
+## LyricsZone App 
 
 Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
 
+#### Live Demo https://lyricszone.netlify.app/
 ## Project Specifications
 
 - Display UI with song/artist input
